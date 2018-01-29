@@ -4,19 +4,19 @@
          "id":1,
          "topicName":"New to PayMe? Start here.",
          "description":"Lorem ipsum dolor sit er elit lamet, consectetaur",
-         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/1.jpg"
+         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/1.png"
       },
       {  
          "id":2,
          "topicName":"Transactions",
          "description":"Lorem ipsum dolor sit er elit lamet, consectetaur",
-         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/2.jpg"
+         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/2.png"
       },
       {  
          "id":3,
          "topicName":"Accounts",
          "description":"Lorem ipsum dolor sit er elit lamet, consectetaur",
-         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/3.jpg"
+         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/3.png"
       }
    ]
 }

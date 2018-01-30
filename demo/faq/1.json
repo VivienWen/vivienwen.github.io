@@ -1,0 +1,28 @@
+{  
+   "topics":[  
+      {  
+         "id":1,
+         "faqTopicId":1,
+         "question":"How should I operate fund out my received money in wallet?",
+         "answerFilePath":"string",
+         "thumbsUpCount":102,
+         "thumbsDownCount":9
+      },
+      {  
+         "id":2,
+         "faqTopicId":1,
+         "question":"Can I use PayMe outside of Hong Kong?",
+         "answerFilePath":"string",
+         "thumbsUpCount":82,
+         "thumbsDownCount":3
+      },
+      {  
+         "id":3,
+         "faqTopicId":1,
+         "question":"How many ways can I search the transaction records?",
+         "answerFilePath":"string",
+         "thumbsUpCount":98,
+         "thumbsDownCount":12
+      }
+   ]
+}

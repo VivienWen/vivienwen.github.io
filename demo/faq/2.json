@@ -4,7 +4,7 @@
          "id":4,
          "faqTopicId":2,
          "question":"Transaction Question 1 : Lorem ipsum dolor sit er elit lamet, consectetaur",
-         "answerFilePath":"string",
+         "answerFilePath":"https://vivienwen.github.io/demo/faq/answer/answer",
          "thumbsUpCount":322,
          "thumbsDownCount":7
       },
@@ -12,7 +12,7 @@
          "id":5,
          "faqTopicId":2,
          "question":"Transaction Question 2 : Lorem ipsum dolor sit er elit lamet",
-         "answerFilePath":"string",
+         "answerFilePath":"https://vivienwen.github.io/demo/faq/answer/answer",
          "thumbsUpCount":207,
          "thumbsDownCount":5
       }

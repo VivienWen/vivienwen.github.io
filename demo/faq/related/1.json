@@ -1,0 +1,18 @@
+{  
+   "relatedFAQs":[  
+      {  
+         "id":2,
+         "relatedFAQId":1,
+         "realtedFAQQuestion":"How should I operate fund out my received money in wallet?",
+         "relatedTopicDescription":"Topic description 2",
+         "sortOrderId":1
+      },
+      {  
+         "id":3,
+         "relatedFAQId":1,
+         "realtedFAQQuestion":"Can I use PayMe outside of Hong Kong?",
+         "relatedTopicDescription":"Topic description 3",
+         "sortOrderId":2
+      }
+   ]
+}

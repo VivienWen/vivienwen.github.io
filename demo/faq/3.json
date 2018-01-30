@@ -4,7 +4,7 @@
          "id":6,
          "faqTopicId":3,
          "question":"Account Question 1 : Lorem ipsum dolor sit er elit lamet, consectetaur",
-         "answerFilePath":"string",
+         "answerFilePath":"https://vivienwen.github.io/demo/faq/answer/answer",
          "thumbsUpCount":22,
          "thumbsDownCount":17
       },
@@ -12,7 +12,7 @@
          "id":7,
          "faqTopicId":3,
          "question":"Account Question 2 : Lorem ipsum dolor sit?",
-         "answerFilePath":"string",
+         "answerFilePath":"https://vivienwen.github.io/demo/faq/answer/answer",
          "thumbsUpCount":654,
          "thumbsDownCount":5
       },
@@ -20,7 +20,7 @@
          "id":8,
          "faqTopicId":3,
          "question":"Account Question 3 : Lorem ipsum dolor sit er elit lamet? Lorem ipsum dolor sit er elit lamet.",
-         "answerFilePath":"string",
+         "answerFilePath":"https://vivienwen.github.io/demo/faq/answer/answer",
          "thumbsUpCount":45,
          "thumbsDownCount":8
       },
@@ -28,7 +28,7 @@
          "id":8,
          "faqTopicId":3,
          "question":"Account Question 4 : Lorem ipsum dolor sit er elit lamet",
-         "answerFilePath":"string",
+         "answerFilePath":"https://vivienwen.github.io/demo/faq/answer/answer",
          "thumbsUpCount":233,
          "thumbsDownCount":0
       }

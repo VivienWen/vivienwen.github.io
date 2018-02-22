@@ -1,0 +1,19 @@
+{  
+   "enquiries":[  
+      {  
+         "subject":"string",
+         "description":"string",
+         "enquiryType":"string",
+         "status":"string",
+         "createdAt":"string",
+         "updatedAt":"string",
+         "transactionId":0,
+         "images":[  
+            {  
+               "imagePath":"string",
+               "order":0
+            }
+         ]
+      }
+   ]
+}

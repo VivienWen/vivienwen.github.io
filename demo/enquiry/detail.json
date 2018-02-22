@@ -1,0 +1,36 @@
+{  
+   "messages":[  
+      {  
+         "subject":"string",
+         "body":"string",
+         "createdAt":"string",
+         "notificationType":"string"
+      }
+   ],
+   "images":[  
+      {  
+         "imagePath":"string",
+         "order":0
+      }
+   ],
+   "transaction":{  
+      "id":"string",
+      "payerId":"string",
+      "payeeId":"string",
+      "payMethod":"string",
+      "transactionType":"003",
+      "transactionTime":"2017-11-22T06:41:54Z",
+      "amount":{  
+         "currency":"HKD",
+         "value":123.01
+      },
+      "status":"completed",
+      "payerAvatar":"string",
+      "payerName":"string",
+      "message":"string",
+      "reference":"string",
+      "terminalId":"string",
+      "refundable":true,
+      "reasonCode":"string"
+   }
+}

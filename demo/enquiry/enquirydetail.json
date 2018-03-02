@@ -8,8 +8,7 @@
       },
       {  
          "subject":"string",
-         "body":"Thanks for getting in touch with PayMe CS. We’re now
-working hard to resolve this issue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum nec.",
+         "body":"Thanks for getting in touch with PayMe CS. We’re now working hard to resolve this issue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum nec.",
          "createdAt":"15/1/2018",
          "notificationType":"string"
       },

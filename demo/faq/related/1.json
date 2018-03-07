@@ -2,17 +2,19 @@
    "relatedFAQs":[  
       {  
          "id":12,
-         "relatedFAQId":1,
-         "realtedFAQQuestion":"How to create a marketing offer for promotion?",
-         "relatedTopicDescription":"Topic description 2",
-         "sortOrderId":1
+         "faqTopicId":1,
+         "question":"How to create a marketing offer for promotion?",
+         "answerFilePath":"https://vivienwen.github.io/demo/faq/answer/answer",
+         "thumbsUpCount":89,
+         "thumbsDownCount":9
       },
       {  
          "id":13,
-         "relatedFAQId":1,
-         "realtedFAQQuestion":"Pellentesque consequat rhoncus velit?",
-         "relatedTopicDescription":"Topic description 3",
-         "sortOrderId":2
+         "faqTopicId":1,
+         "question":"Pellentesque consequat rhoncus velit?",
+         "answerFilePath":"https://vivienwen.github.io/demo/faq/answer/answer",
+         "thumbsUpCount":76,
+         "thumbsDownCount":3
       }
    ]
 }

@@ -2,7 +2,7 @@
    "topics":[  
       {  
          "id":1,
-         "topicName":"New to PayMe? Start here.",
+         "topicName":"Account and password",
          "description":"Lorem ipsum dolor sit er elit lamet, consectetaur",
          "topicThumbnailURI":"https://vivienwen.github.io/demo/images/1.png"
       },
@@ -14,7 +14,25 @@
       },
       {  
          "id":3,
-         "topicName":"Accounts",
+         "topicName":"Verifying my business",
+         "description":"Lorem ipsum dolor sit er elit lamet, consectetaur",
+         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/3.png"
+      },
+      {  
+         "id":1,
+         "topicName":"Reporting & analytics",
+         "description":"Lorem ipsum dolor sit er elit lamet, consectetaur",
+         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/3.png"
+      },
+      {  
+         "id":2,
+         "topicName":"Profile and settings",
+         "description":"Lorem ipsum dolor sit er elit lamet, consectetaur",
+         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/3.png"
+      },
+      {  
+         "id":3,
+         "topicName":"Others",
          "description":"Lorem ipsum dolor sit er elit lamet, consectetaur",
          "topicThumbnailURI":"https://vivienwen.github.io/demo/images/3.png"
       }

@@ -3,18 +3,21 @@
       {  
          "subject":"string",
          "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum nec est ut porta?",
+         "sender":"XTC Gelato",
          "createdAt":"14/1/2018",
          "notificationType":"string"
       },
       {  
          "subject":"string",
          "body":"Thanks for getting in touch with PayMe CS. We’re now working hard to resolve this issue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum nec.",
+         "sender":"PayMe Biz CS",
          "createdAt":"15/1/2018",
          "notificationType":"string"
       },
       {  
          "subject":"string",
          "body":"I don’t understand - need more help",
+         "sender":"XTC Gelato",
          "createdAt":"16/1/2018",
          "notificationType":"string"
       }

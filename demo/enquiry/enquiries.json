@@ -1,10 +1,13 @@
 {  
    "enquiries":[  
       {  
+         "ticketId":"T2GKS87S9",
          "subject":"HSBC bank fund out",
          "description":"I still haven’t received the money - why?",
          "enquiryType":"string",
          "status":"string",
+         "lastestMessageSentBy":"XTC Gelato",
+         "lastestMessageSenderAvatar":"",
          "createdAt":"12/1/2018",
          "updatedAt":"18/1/2018",
          "transactionId":0,
@@ -16,10 +19,13 @@
          ]
       },
       {  
+         "ticketId":"T8CD6YH38",
          "subject":"There’s something wrong with my PayMe Biz account and I can’t log on?",
          "description":"Thanks for getting in touch with PayMe CS. We’re now working hard to resolve this issue",
          "enquiryType":"string",
          "status":"string",
+         "lastestMessageSentBy":"PayMe Biz CS",
+         "lastestMessageSenderAvatar":"",
          "createdAt":"11/1/2018",
          "updatedAt":"15/1/2018",
          "transactionId":0,
@@ -31,10 +37,13 @@
          ]
       },
       {  
+         "ticketId":"T9JY28D82",
          "subject":"Password reset issue",
          "description":"The issue has been resolved. Good luck!",
          "enquiryType":"string",
          "status":"string",
+         "lastestMessageSentBy":"PayMe Biz CS",
+         "lastestMessageSenderAvatar":"",
          "createdAt":"9/1/2018",
          "updatedAt":"10/1/2018",
          "transactionId":0,

@@ -4,7 +4,7 @@
          "subject":"string",
          "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum nec est ut porta?",
          "senderName":"XTC Gelato",
-         "senderAvatarUri": "",
+         "senderAvatarUri": "https://vivienwen.github.io/demo/images/xtc.png",
          "createdAt":"14/1/2018",
          "notificationType":"string"
       },
@@ -12,7 +12,7 @@
          "subject":"string",
          "body":"Thanks for getting in touch with PayMe CS. We’re now working hard to resolve this issue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum nec.",
          "senderName":"PayMe Biz CS",
-         "senderAvatarUri": "",
+         "senderAvatarUri": "https://vivienwen.github.io/demo/images/cs.png",
          "createdAt":"15/1/2018",
          "notificationType":"string"
       },
@@ -20,7 +20,7 @@
          "subject":"string",
          "body":"I don’t understand - need more help",
          "senderName":"XTC Gelato",
-         "senderAvatarUri": "",
+         "senderAvatarUri": "https://vivienwen.github.io/demo/images/xtc.png",
          "createdAt":"16/1/2018",
          "notificationType":"string"
       }

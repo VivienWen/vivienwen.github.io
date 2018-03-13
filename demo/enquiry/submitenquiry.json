@@ -1,14 +1,14 @@
 {  
-   "subject":"string",
-   "description":"string",
-   "enquiryType":"string",
-   "status":"string",
-   "createdAt":"string",
-   "updatedAt":"string",
+   "subject":"Problem with the payment",
+   "description":"I think the transaction happened on 14/10/2017 rather than 15/10/2017?",
+   "enquiryType":"transactions",
+   "status":"open",
+   "createdAt":"2018-03-13T03:40:00.000Z",
+   "updatedAt":"2018-03-13T03:40:00.000Z",
    "transactionId":0,
    "images":[  
       {  
-         "imagePath":"string",
+         "imagePath":"",
          "order":0
       }
    ]

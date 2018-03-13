@@ -5,7 +5,7 @@
          "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum nec est ut porta?",
          "senderName":"XTC Gelato",
          "senderAvatarUri": "https://vivienwen.github.io/demo/images/xtc.png",
-         "createdAt":"14/1/2018",
+         "createdAt":"2018-01-14T03:40:00.000Z",
          "notificationType":"string"
       },
       {  
@@ -13,7 +13,7 @@
          "body":"Thanks for getting in touch with PayMe CS. We’re now working hard to resolve this issue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum nec.",
          "senderName":"PayMe Biz CS",
          "senderAvatarUri": "https://vivienwen.github.io/demo/images/cs.png",
-         "createdAt":"15/1/2018",
+         "createdAt":"2018-01-15T03:40:00.000Z",
          "notificationType":"string"
       },
       {  
@@ -21,7 +21,7 @@
          "body":"I don’t understand - need more help",
          "senderName":"XTC Gelato",
          "senderAvatarUri": "https://vivienwen.github.io/demo/images/xtc.png",
-         "createdAt":"16/1/2018",
+         "createdAt":"2018-01-16T03:40:00.000Z",
          "notificationType":"string"
       }
    ],
@@ -37,7 +37,7 @@
       "payeeId":"string",
       "payMethod":"string",
       "transactionType":"003",
-      "transactionTime":"2017-11-22T06:41:54Z",
+      "transactionTime":"2017-11-22T06:41:54.000Z",
       "amount":{  
          "currency":"HKD",
          "value":123.01

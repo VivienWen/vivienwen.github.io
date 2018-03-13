@@ -13,7 +13,7 @@
          "body":"Thanks for getting in touch with PayMe CS. We’re now working hard to resolve this issue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum nec.",
          "senderName":"PayMe Biz CS",
          "senderAvatarUri": "https://vivienwen.github.io/demo/images/cs.png",
-         "createdAt":"2018-01-15T03:40:00.000Z",
+         "createdAt":"2018-01-15T04:01:00.000Z",
          "notificationType":"string"
       },
       {  
@@ -21,7 +21,7 @@
          "body":"I don’t understand - need more help",
          "senderName":"XTC Gelato",
          "senderAvatarUri": "https://vivienwen.github.io/demo/images/xtc.png",
-         "createdAt":"2018-01-16T03:40:00.000Z",
+         "createdAt":"2018-01-16T06:22:00.000Z",
          "notificationType":"string"
       }
    ],

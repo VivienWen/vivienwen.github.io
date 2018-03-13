@@ -22,19 +22,19 @@
          "id":4,
          "topicName":"Reporting & analytics",
          "description":"Lorem ipsum dolor sit er elit lamet, consectetaur",
-         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/3.png"
+         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/4.png"
       },
       {  
          "id":5,
          "topicName":"Profile and settings",
          "description":"Lorem ipsum dolor sit er elit lamet, consectetaur",
-         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/3.png"
+         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/1.png"
       },
       {  
          "id":6,
          "topicName":"Others",
          "description":"Lorem ipsum dolor sit er elit lamet, consectetaur",
-         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/3.png"
+         "topicThumbnailURI":"https://vivienwen.github.io/demo/images/2.png"
       }
    ]
 }

@@ -9,15 +9,7 @@
    "createdAt":"2018-01-12T02:59:00.000Z",
    "updatedAt":"2018-01-18T03:40:00.000Z",
    "transactionId":0,
-   "messages":[  
-      {  
-         "subject":"string",
-         "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum nec est ut porta?",
-         "senderName":"XTC Gelato",
-         "senderAvatarUri":"https://vivienwen.github.io/demo/images/xtc.png",
-         "createdAt":"2018-01-14T03:40:00.000Z",
-         "notificationType":"string"
-      },
+   "messages":[
       {  
          "subject":"string",
          "body":"Thanks for getting in touch with PayMe CS. We’re now working hard to resolve this issue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum nec.",

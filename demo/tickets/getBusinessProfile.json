@@ -1,0 +1,30 @@
+{  
+   "organizationCustomerIdentifier":"OC0000001",
+   "statusCode":"verified",
+   "displayName":{  
+      "displayName":"XTC Gelato",
+      "reviewStatusCode":"verified"
+   },
+   "logo":{  
+      "imageLocation":"https://vivienwen.github.io/demo/images/xtc.png",
+      "reviewStatusCode":"verified"
+   },
+   "organization":{  
+      "organizationIdentifier":"ORG0000001",
+      "organizationName":"XTC Gelato",
+      "organizationNature":"Food",
+      "organizationType":"partnership",
+      "organizationValidationStatus":"verified",
+      "identificationDocument":{  
+         "identificationDocumentType":"BRN",
+         "identificationNumber":"BRN123456"
+      }
+   },
+   "employees":[  
+      {  
+         "businessUserId":"u000001",
+         "employeeRole":"owner",
+         "employeeStatus":"verified"
+      }
+   ]
+}

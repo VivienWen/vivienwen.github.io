@@ -1,0 +1,18 @@
+{
+    "ticketId": "123456",
+    "userId": "u123456",
+    "BRN": "BRN123456",
+    "subject": "Subject of the ticket",
+    "description": "Detailed desc of the ticket",
+    "ticketType": "Type of ticket",
+    "ticketCategory": "category of ticket",
+    "source": "source of ticket",
+    "status": "open",
+    "priority": "medium",
+    "assignee": "Assignee Dinesh A",
+    "assigner": "Assigner Mike A",
+    "createdAt": "2018-01-12T02:59:00.000Z",
+    "dueDate": "Due date TBD",
+    "createdBy": "Dinesh",
+    "updatedAt": "2018-01-12T02:59:00.000Z"
+}

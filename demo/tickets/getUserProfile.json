@@ -1,0 +1,13 @@
+{  
+   "userId":"u0000001",
+   "statusCode":"verified",
+   "emailAddress":{  
+      "emailAddressText":"test@cso.hsbc.hk"
+   },
+   "person":{  
+      "personIdentifier":"p0000001",
+      "firstName":"Tai Man",
+      "lastName":"Chan",
+      "validationStatusCode":"verified"
+   }
+}

@@ -1,8 +1,10 @@
 {  
    "ticketId":"T2GKS87S9",
+   "enquiryLogId": 1,
    "subject":"HSBC bank fund out",
    "description":"I still haven’t received the money - why?",
    "enquiryType":"string",
+   "merchantId":"M000001",
    "status":"string",
    "lastestMessageSentBy":"XTC Gelato",
    "lastestMessageSenderAvatar":"https://vivienwen.github.io/demo/images/xtc.png",

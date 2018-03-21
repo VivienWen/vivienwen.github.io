@@ -2,9 +2,11 @@
    "enquiries":[  
       {  
          "ticketId":"T2GKS87S9",
+         "enquiryLogId": 1,
          "subject":"HSBC bank fund out",
          "description":"I still haven’t received the money - why?",
          "enquiryType":"string",
+         "merchantId":"M000001",
          "status":"string",
          "lastestMessageSentBy":"XTC Gelato",
          "lastestMessageSenderAvatar":"https://vivienwen.github.io/demo/images/xtc.png",
@@ -20,9 +22,11 @@
       },
       {  
          "ticketId":"T8CD6YH38",
+         "enquiryLogId": 2,
          "subject":"There’s something wrong with my PayMe Biz account and I can’t log on?",
          "description":"Thanks for getting in touch with PayMe CS. We’re now working hard to resolve this issue",
          "enquiryType":"string",
+         "merchantId":"M000001",
          "status":"string",
          "lastestMessageSentBy":"PayMe Biz CS",
          "lastestMessageSenderAvatar":"https://vivienwen.github.io/demo/images/cs.png",
@@ -38,9 +42,11 @@
       },
       {  
          "ticketId":"T9JY28D82",
+         "enquiryLogId": 3,
          "subject":"Password reset issue",
          "description":"The issue has been resolved. Good luck!",
          "enquiryType":"string",
+         "merchantId":"M000001",
          "status":"string",
          "lastestMessageSentBy":"PayMe Biz CS",
          "lastestMessageSenderAvatar":"https://vivienwen.github.io/demo/images/cs.png",

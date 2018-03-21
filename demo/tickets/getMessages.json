@@ -1,0 +1,17 @@
+{  
+   "messages":[  
+      {  
+         "subject":"Thank you",
+         "messageType":"reply",
+         "body":"Thanks for getting in touch with PayMe CS. We’re now working hard to resolve this issue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum nec.",
+         "createdAt":"2018-01-15T04:01:00.000Z",
+         "notificationType":"email",
+         "images":[  
+            {  
+               "imagePath":"https://vivienwen.github.io/demo/images/xtc.png",
+               "order":0
+            }
+         ]
+      }
+   ]
+}

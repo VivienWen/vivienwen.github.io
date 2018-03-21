@@ -1,0 +1,85 @@
+{  
+   "tickets":[  
+      {  
+         "ticketId":"T00000001",
+         "userId":"u0000001",
+         "BRN":"BRN123456",
+         "subject":"I can’t access my account one",
+         "ticketType":"Enquiry",
+         "ticketCategory":"Singning Up",
+         "source":"email",
+         "status":"OPEN",
+         "priority":"Medium",
+         "createdAt":"2018-01-12T02:59:00.000Z",
+         "dueDate":"Due date TBD",
+         "createdBy":"Dinesh",
+         "updatedAt":"2018-01-12T02:59:00.000Z",
+         "person":{  
+            "displayName":"Tai Man",
+            "lastName":"Chan"
+         },
+         "organizationCustomer":{  
+            "displayName":{  
+               "displayName":"XTC Galato"
+            },
+            "logo":{  
+               "imageLocation":"string"
+            }
+         }
+      },
+      {  
+         "ticketId":"T00000002",
+         "userId":"u0000001",
+         "BRN":"BRN123456",
+         "subject":"I can’t access my account two",
+         "ticketType":"Enquiry",
+         "ticketCategory":"Singning Up",
+         "source":"app",
+         "status":"OPEN",
+         "priority":"Medium",
+         "createdAt":"2018-01-12T02:59:00.000Z",
+         "dueDate":"Due date TBD",
+         "createdBy":"Dinesh",
+         "updatedAt":"2018-01-12T02:59:00.000Z",
+         "person":{  
+            "displayName":"Tai Man",
+            "lastName":"Chan"
+         },
+         "organizationCustomer":{  
+            "displayName":{  
+               "displayName":"XTC Galato"
+            },
+            "logo":{  
+               "imageLocation":"string"
+            }
+         }
+      },
+      {  
+         "ticketId":"T00000003",
+         "userId":"u0000001",
+         "BRN":"BRN123456",
+         "subject":"I can’t access my account three",
+         "ticketType":"Enquiry",
+         "ticketCategory":"Singning Up",
+         "source":"app",
+         "status":"OPEN",
+         "priority":"Medium",
+         "createdAt":"2018-01-12T02:59:00.000Z",
+         "dueDate":"Due date TBD",
+         "createdBy":"Dinesh",
+         "updatedAt":"2018-01-12T02:59:00.000Z",
+         "person":{  
+            "displayName":"Tai Man",
+            "lastName":"Chan"
+         },
+         "organizationCustomer":{  
+            "displayName":{  
+               "displayName":"XTC Galato"
+            },
+            "logo":{  
+               "imageLocation":"string"
+            }
+         }
+      }
+   ]
+}

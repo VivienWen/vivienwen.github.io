@@ -17,13 +17,13 @@
         <key>metadata</key>
         <dict>
             <key>bundle-identifier</key>
-            <string>com.disney.hkdl.Entitlement-Latest</string>
+            <string>com.disney.hkdl.Entitlement</string>
             <key>bundle-version</key>
             <string>1.0.16</string>
             <key>kind</key>
             <string>software</string>
             <key>title</key>
-            <string>Ent-Latest</string>
+            <string>Entitlement</string>
         </dict>
     </dict>
 </array>

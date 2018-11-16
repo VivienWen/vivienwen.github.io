@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Redirect</title>
+<script type="text/javascript"> // <![CDATA[
+//iPhone Version:
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
+//     window.location = "http://goo.gl/IWd7J";
+var app = {
+    launchApp: function() {
+      window.location.replace("com.googleusercontent.apps.361391138606-bvtp9ntptppj3a0f3b7kf6sv069ro11n://");
+//       this.timer = setTimeout(this.openWebApp, 1000);
+    },
+
+    openWebApp: function() {
+      window.location.replace("http://itunesstorelink/");
+    }
+  };
+
+  app.launchApp();
+}
+//Android Version:
+if(navigator.userAgent.match(/android/i)) {
+    window.location = "http://goo.gl/1K1Hi";
+}
+//Blackberry Version:
+if(navigator.userAgent.match(/blackberry/i)) {
+    window.location = "http://goo.gl/jH2wD";
+}
+ 
+</script>
+
+<p>Download Jasmine App</p>
+</body>
+</html>

@@ -9,7 +9,7 @@ if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)
 //     window.location = "http://goo.gl/IWd7J";
 var app = {
     launchApp: function() {
-      window.location.replace("myapp://");
+      window.location.replace("hsbcJasmineAppUrlScheme://");
       this.timer = setTimeout(this.openWebApp, 1000);
     },
 

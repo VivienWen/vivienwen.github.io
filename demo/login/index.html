@@ -10,7 +10,7 @@
         // this window's domain
         
         // event.data contains the message sent
-        window.alert(`Method is ${event.data} ` );
+        document.getElementById("myspan").textContent=`Method is ${event.data.method} `;
       
     });
     </script>
@@ -42,6 +42,9 @@
     <br/><br/>
     <a href="idirectcc://iam/#error=123" style = "font-size: 40px;">Login Page Down #error</a>
     <br/><br/>
+    
+    <span id="myspan"> hereismytext </span>
+
 </p>
 </body>
 </html>

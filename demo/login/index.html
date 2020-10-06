@@ -1,4 +1,21 @@
 <html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <script>
+// Allow window to listen for a postMessage
+    window.addEventListener("message", (event)=>{
+// Normally you would check event.origin
+        // To verify the targetOrigin matches
+        // this window's domain
+        
+        // event.data contains the message sent
+        window.alert(`Method is ${event.data} ` );
+      
+    });
+    </script>
+</head>
+
 <body style = "background:#0000FF55">
 <p>
     

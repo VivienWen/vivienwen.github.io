@@ -4,13 +4,26 @@
     <meta charset="utf-8" />
     <script>
 // Allow window to listen for a postMessage
-    window.addEventListener("message", (event)=>{
+window.addEventListener("message", (event)=>{
+// Normally you would check event.origin
+        // To verify the targetOrigin matches
+        // this window's domain
+        
+        var obj = JSON.parse(event.data);
+        // event.data contains the message sent
+        document.getElementById("myspan").textContent=`Method is ${obj.method} `;
+      
+    });
+
+    document.addEventListener("message", (event)=>{
 // Normally you would check event.origin
         // To verify the targetOrigin matches
         // this window's domain
         
         // event.data contains the message sent
-        document.getElementById("myspan").textContent=`Method is ${event.data.method} `;
+        var obj = JSON.parse(event.data);
+        // event.data contains the message sent
+        document.getElementById("myspan").textContent=`Method is ${obj.method} `;
       
     });
     </script>

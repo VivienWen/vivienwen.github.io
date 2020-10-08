@@ -11,7 +11,9 @@ window.addEventListener("message", (event)=>{
         
         var obj = JSON.parse(event.data);
         // event.data contains the message sent
-        document.getElementById("myspan").textContent=`Method is ${obj.method} `;
+        if (obj.method != "deregisterDevice") {
+          document.getElementById("myspan").textContent=`Method is ${obj.method} `;
+        }
       
     });
 
@@ -23,9 +25,24 @@ window.addEventListener("message", (event)=>{
         // event.data contains the message sent
         var obj = JSON.parse(event.data);
         // event.data contains the message sent
-        document.getElementById("myspan").textContent=`Method is ${obj.method} `;
+        if (obj.method != "deregisterDevice") {
+          document.getElementById("myspan").textContent=`Method is ${obj.method} `;
+        }
       
     });
+    
+    function postDeregMsg() {
+	  try{
+			window.postMessage(JSON.stringify({
+				method:"deregisterDevice",
+				params:[],
+				view:"ReactWebView"
+			}));
+		}catch(e){
+			alert("deregisterDevice" + e);
+			console.log(e)
+		}
+	}
     </script>
 </head>
 
@@ -55,6 +72,10 @@ window.addEventListener("message", (event)=>{
     <br/><br/>
     <a href="idirectcc://iam/#error=123" style = "font-size: 40px;">Login Page Down #error</a>
     <br/><br/>
+    
+    <button onclick="postDeregMsg()">postMessage</button>
+    
+    
     
     <span id="myspan"> hereismytext </span>
 
